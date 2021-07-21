@@ -1,0 +1,2 @@
+if the subDir is empty, git won't take it as something need to manage.
+so add this file here.
